@@ -37,3 +37,10 @@ print(f"{user:>10}")  # "     Tomek"  - uzupełnił spacjami do długosci 10, wy
 print(f"{user:<20}")  # "Tomek               "  wyrównaj do lewej
 print(f"{user:^20}")  # "       Tomek        "  wyśrodkuj
 # 12:45
+
+print(liczba)  # 134567890123
+print(type(liczba))  # <class 'int'>
+print("Nasza duża liczba {:,}".format(liczba))  # Nasza duża liczba 134,567,890,123
+print("Nasza duża liczba {:,}".format(liczba).replace(",", " "))  # Nasza duża liczba 134 567 890 123
+print(f"Nasza duża liczba {liczba:,}".replace(",", "."))  # Nasza duża liczba 134.567.890.123
+print(f"Nasza duża liczba {liczba:,}".replace(",", " "))  # Nasza duża liczba 134 567 890 123
