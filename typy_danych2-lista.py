@@ -94,5 +94,5 @@ print(liczby)  # [999, 687, 22.14]
 print(len(liczby))  # długosc kolekcji wynosi 3
 
 krotka = tuple(liczby)  # zamiana listy na tuple(krotkę)
-print(krotka)
+print(krotka)  # (999, 687, 22.14)
 print(type(krotka))  # <class 'tuple'>
