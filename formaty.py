@@ -36,3 +36,4 @@ print(f"Uzywamy wersji Pythona {wersja:.0f}")
 print(f"{user:>10}")  # "     Tomek"  - uzupełnił spacjami do długosci 10, wyrównał do prawej
 print(f"{user:<20}")  # "Tomek               "  wyrównaj do lewej
 print(f"{user:^20}")  # "       Tomek        "  wyśrodkuj
+# 12:45
