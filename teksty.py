@@ -45,3 +45,6 @@ print("""
     Tekst
         wielolinijkowy\b
         """)
+print("tekst", end="")
+print("tekst2")  # teksttekst2
+# end = znak konca lini, domyslnie \n
