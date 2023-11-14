@@ -35,3 +35,4 @@ print(wyn)
 
 print(random.choices(lista_kule, k=6))  # powtarzajace sie liczby [5, 14, 22, 3, 14, 35]
 print(random.sample(lista_kule, 6))  # [5, 23, 36, 13, 6, 42]
+# 15:45
