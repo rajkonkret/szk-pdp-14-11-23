@@ -49,3 +49,4 @@ while True:
 # ValueError, TypeError
 # try - except - [else] - [finally]
 # 13:45
+# praca domowa - zmienic na match case
