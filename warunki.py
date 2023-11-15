@@ -5,6 +5,9 @@
 
 # wcięcia w pythonie miały  zastąpic np.: sredniki na koncu lini w innych jezykach
 odp = True
+odp2 = not odp  # negacja
+print(odp2)
+
 if odp:
     print("Brawo")  # wcięcie obowiązkowe (standartowo 4 spacje) - wykonuje sie gdy warunek True
 else:  # w przeciwnym przypadku (działanie domyślne)
