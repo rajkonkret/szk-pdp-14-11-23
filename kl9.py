@@ -20,3 +20,5 @@ try:
         raise MyException("X nie może być 0")
 except MyException:
     print("Drogi użytkowniku x nie może byc 0")
+# raise MyException("X nie może być 0")
+# raise ZeroDivisionError("Komentarz")  # ZeroDivisionError: Komentarz
