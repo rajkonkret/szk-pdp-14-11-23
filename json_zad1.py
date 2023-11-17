@@ -42,3 +42,4 @@ print(type(json_text))  # <class 'str'>
 dict_json = json.loads(json_text)
 print(dict_json)  # {'age': 40, 'czy_pali': None, 'name': 'Radek'}
 print(type(dict_json))  # <class 'dict'>
+# 13:45
