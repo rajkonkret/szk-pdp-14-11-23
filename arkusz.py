@@ -29,3 +29,5 @@ for i in range(0, len(lista), 3):  # start, stop. step - krok
 # [datetime.datetime(2019, 12, 6, 0, 0), 'Mir Hossain', 50000]
 # [datetime.datetime(2020, 8, 9, 0, 0), 'Sarmin Jahan', 45000]
 # [datetime.datetime(2021, 4, 7, 0, 0), 'Mahmudul Hasan', 30000]
+print(lista[3])  # 2018-05-12 00:00:00
+print(type(lista[3]))  # <class 'datetime.datetime'>
