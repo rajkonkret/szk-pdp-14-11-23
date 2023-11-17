@@ -1,0 +1,5 @@
+1. Instalacja programy pyinstaller
+ pip install pyinstaller
+2. Zbudowani aplikacji exe z pliku py
+ pyinstaller.exe .\wykres2.py
+
