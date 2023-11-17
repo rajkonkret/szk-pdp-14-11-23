@@ -6,3 +6,4 @@ print(pi)  # 3.141592653589793
 print(math.sqrt(25))  # 5.0
 print(math.cos(20))
 # 11:15
+# 12:05
