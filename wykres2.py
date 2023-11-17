@@ -14,3 +14,7 @@ ax1.set_ylabel('Y1', color='g')
 ax2.set_ylabel('Y2', color='b')
 
 plt.show()
+# udostępnienie i instalacja potrebnych bibliotek dla naszego projektu
+# pip freeze > requirements.txt
+#
+# pip install - r.\requirements.txt
